@@ -2,13 +2,15 @@
 
 **Building Daena: the governance layer for AI agents.**
 
+Ontario, Canada | [mas-ai.co](https://mas-ai.co) | [daena.mas-ai.co](https://daena.mas-ai.co)
+
 ---
 
 ## What We've Built
 
 Daena is a governance-first AI agent orchestration platform. Every task flows through a 10-stage deterministic pipeline with policy enforcement, multi-model routing, and full audit trail.
 
-| | |
+| Metric | Value |
 |---|---|
 | Test suite | **502/502 passing**, 0 TypeScript errors |
 | End-to-end | **6/6 Playwright tests** |
@@ -16,6 +18,24 @@ Daena is a governance-first AI agent orchestration platform. Every task flows th
 | Multi-model synthesis | Council/Quintessence: **LIVE** |
 | Performance | **40x improvement** achieved |
 | Business model | BYOK: **75-82% gross margins** |
+
+> Core platform repo is private (patent-pending architecture).
+
+---
+
+## Our Repos
+
+| Project | What it does |
+|---|---|
+| [MergeLoop](https://github.com/Mas-AI-Official/MergeLoop) | Host-agnostic model council for MCP, CLI, and API workers |
+| [Daena Live Demo](https://github.com/Mas-AI-Official/Daena-live-demo) | Interactive Daena demo for investors and partners |
+| [Daena DeFi Demo](https://github.com/Mas-AI-Official/hackathon_demo) | Governance applied to DeFi (hackathon showcase) |
+| [LingoVids](https://github.com/Mas-AI-Official/lingovids) | AI video translator |
+| [ContentOps](https://github.com/Mas-AI-Official/contentops-core) | Autonomous multi-platform content engine |
+| [AI Company OS](https://github.com/Mas-AI-Official/AI-Autonomus-company-OS) | AI-native company operating system |
+| [NatureNLP Website](https://github.com/Mas-AI-Official/NatureNLP-Website) | NLP platform site |
+| [Daena Website](https://github.com/Mas-AI-Official/Daena-website) | Product site for investors |
+| [MAS-AI Official Site](https://github.com/Mas-AI-Official/Mas-AI-Official) | Company site |
 
 ---
 
@@ -33,11 +53,3 @@ Daena is a governance-first AI agent orchestration platform. Every task flows th
 
 **AI Models**: Claude, GPT, Gemini, DeepSeek, Qwen, Ollama (BYOK)
 **Memory**: PhiLattice (T0-T4 tiered architecture), Obsidian-compatible vault
-
----
-
-> Core platform repo is private (patent-pending architecture).
-
----
-
-**Ontario, Canada** | [mas-ai.co](https://mas-ai.co) | [daena.mas-ai.co](https://daena.mas-ai.co)
