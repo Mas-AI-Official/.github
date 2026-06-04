@@ -113,7 +113,6 @@ Fibonacci-derived hexagonal topology for scalable agent placement. Golden-angle 
 [![Daena Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mas-AI-Official&repo=daena&theme=github_dark&hide_border=true&bg_color=0F1419&title_color=2DD4BF&icon_color=D4A843&text_color=FFFFFF)](https://github.com/Mas-AI-Official/daena)
 [![MergeLoop Repo](https://github-readme-stats.vercel.app/api/pin/?username=Mas-AI-Official&repo=MergeLoop&theme=github_dark&hide_border=true&bg_color=0F1419&title_color=2DD4BF&icon_color=D4A843&text_color=FFFFFF)](https://github.com/Mas-AI-Official/MergeLoop)
 
-[![Daena CI](https://github.com/Mas-AI-Official/daena/actions/workflows/ci.yml/badge.svg)](https://github.com/Mas-AI-Official/daena/actions/workflows/ci.yml)
 [![Daena Security](https://github.com/Mas-AI-Official/daena/actions/workflows/security.yml/badge.svg)](https://github.com/Mas-AI-Official/daena/actions/workflows/security.yml)
 
 </div>
