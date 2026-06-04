@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/Mas-AI-Official
+    about: Do not file public issues for vulnerabilities. Use Security Advisories on the affected repo when available.

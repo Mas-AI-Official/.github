@@ -1,0 +1,6 @@
+{
+  "name": "Python CI",
+  "description": "Compile and test a Python project with pytest when tests are present.",
+  "iconName": "octicon workflow",
+  "categories": ["Python"]
+}

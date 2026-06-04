@@ -1,0 +1,6 @@
+{
+  "name": "Node CI",
+  "description": "Install, lint, test, and build a Node/Next/Vite app with least-privilege permissions.",
+  "iconName": "octicon workflow",
+  "categories": ["JavaScript", "TypeScript", "Node", "Next.js"]
+}

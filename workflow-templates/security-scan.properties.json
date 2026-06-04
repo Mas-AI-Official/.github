@@ -1,0 +1,6 @@
+{
+  "name": "Security Scan",
+  "description": "Dependency review on PRs plus weekly Trivy filesystem scan uploaded to GitHub Security.",
+  "iconName": "octicon shield-lock",
+  "categories": ["Security"]
+}
