@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://daena.mas-ai.co">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=D4A843&center=true&vCenter=true&width=880&height=46&lines=MAS-AI+Technologies+%E2%80%94+Governance-First+AI;Daena+%E2%80%94+the+Governance+Layer+for+Autonomous+Agents;10-Stage+Pipeline+%E2%80%A2+10+Departments+%E2%80%A2+60+Capabilities;3%2C086+Tests+Passing+%E2%80%A2+2+USPTO+Patents+%E2%80%A2+Google+for+Startups+'26" alt="MAS-AI Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=D4A843&center=true&vCenter=true&width=880&height=46&lines=MAS-AI+Technologies+%E2%80%94+Governance-First+AI;Daena+%E2%80%94+the+Governance+Layer+for+Autonomous+Agents;10-Stage+Pipeline+%E2%80%A2+10+Departments+%E2%80%A2+60+Capabilities;6%2C000%2B+Tests+Passing+%E2%80%A2+2+USPTO+Patents+%E2%80%A2+Google+for+Startups+'26" alt="MAS-AI Technologies" />
 </a>
 
 # MAS-AI Technologies Inc.
@@ -35,7 +35,7 @@ Most agent platforms ship hot-path LLM calls with no immutable guardrails. **Dae
 
 | Dimension | Status |
 |:---|:---|
-| 🧪 **Test Suite** | **3,086 / 3,086 backend tests passing** · 0 TypeScript errors · 6/6 Playwright E2E |
+| 🧪 **Test Suite** | **6,000+ backend tests passing** · 0 TypeScript errors · 6/6 Playwright E2E |
 | 🤖 **Agent Fleet** | **10 unified agents × 6 capabilities** (MIND · EYES · HANDS · VOICE · SHIELD · MEMORY) across **10 departments** |
 | 🧠 **LLM Routing** | **9 providers** — Ollama (local llama.cpp) · Anthropic · OpenAI · Gemini · Groq · OpenRouter · Together.ai · Perplexity · Azure |
 | 🛡️ **Governance** | **3 always-on layers** (Shield + Security + Asset Shield) · **3 modes** (UNLEASHED / BALANCED / GOVERNED) |
@@ -117,7 +117,7 @@ Fibonacci-derived hexagonal topology for scalable agent placement. Golden-angle 
 
 </div>
 
-> **[🛡️ Daena](https://github.com/Mas-AI-Official/daena)** — Governed AI orchestration platform · 10-stage pipeline · 10 departments × 60 capabilities · 3,086 tests · v3.7.1. *Core platform repo is private (patent-pending architecture); the public repo tracks the open surface.*
+> **[🛡️ Daena](https://github.com/Mas-AI-Official/daena)** — Governed AI orchestration platform · 10-stage pipeline · 10 departments × 60 capabilities · 6,000+ tests · v3.7.1. *Core platform repo is private (patent-pending architecture); the public repo tracks the open surface.*
 
 ### 🧰 Platform & Developer Tools
 
