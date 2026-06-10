@@ -17,7 +17,7 @@
 | | |
 |---|---|
 | Product | **Daena v3.7**, in production on Google Cloud Run |
-| Tests | **2,956+ passing** |
+| Tests | **3,086+ passing** |
 | LLM runtimes | **9**, hot-swappable |
 | Patents | **2 USPTO provisionals** — PhiLattice (#63/877,082), NBMF (#64/020,421) |
 | Company | MAS-AI Technologies Inc., founded January 2026, Ontario, Canada |
