@@ -75,7 +75,7 @@
 | [KYA Website](https://github.com/Mas-AI-Official/kYA_website) | Know-Your-Agent product site |
 | [NatureNLP Website](https://github.com/Mas-AI-Official/NatureNLP-Website) | Nature-inspired NLP platform site |
 
-> 🟢 **Newest open-source (on the founder's account):** [Switchboard](https://github.com/Masoud-Masoori/mcp-switchboard) (Apache-2.0) · [ContentOps](https://github.com/Masoud-Masoori/contentops) (Apache-2.0) — see [github.com/Masoud-Masoori](https://github.com/Masoud-Masoori).
+> 🟢 **Newest open-source:** [Switchboard](https://github.com/Mas-AI-Official/mcp-switchboard) (Apache-2.0) · [ContentOps](https://github.com/Masoud-Masoori/contentops) (Apache-2.0) — also see the founder's account [github.com/Masoud-Masoori](https://github.com/Masoud-Masoori).
 
 ---
 
